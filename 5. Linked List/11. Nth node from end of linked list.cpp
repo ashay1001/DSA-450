@@ -57,4 +57,3 @@ int getNthFromLast(Node *head, int n)
     if(head == NULL) {return -1;}
     else return head->data;
 }
-
